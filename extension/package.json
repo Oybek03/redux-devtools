@@ -82,6 +82,7 @@
     "fork-ts-checker-webpack-plugin": "^7.2.11",
     "immutable": "^4.0.0",
     "jest": "^28.1.0",
+    "jest-environment-jsdom": "^28.1.0",
     "path-browserify": "^1.0.1",
     "pug-html-loader": "^1.1.5",
     "raw-loader": "^4.0.2",
