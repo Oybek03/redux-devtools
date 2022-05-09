@@ -60,7 +60,7 @@ importers:
       '@types/jsan': ^3.1.2
       '@types/lodash': ^4.14.182
       '@types/react': ^17.0.45
-      '@types/react-dom': ^17.0.16
+      '@types/react-dom': ^18.0.3
       '@types/react-redux': ^7.1.24
       '@types/styled-components': ^5.1.25
       babel-loader: ^8.2.5
@@ -138,7 +138,7 @@ importers:
       '@types/chrome': 0.0.184
       '@types/lodash': 4.14.182
       '@types/react': 17.0.45
-      '@types/react-dom': 17.0.16
+      '@types/react-dom': 18.0.3
       '@types/react-redux': 7.1.24
       '@types/styled-components': 5.1.25
       babel-loader: 8.2.5_887a5110397f957d9e06dd05497793db
@@ -512,7 +512,7 @@ importers:
       '@babel/preset-typescript': ^7.16.7
       '@types/node': ^16.11.33
       '@types/react': ^17.0.45
-      '@types/react-dom': ^17.0.16
+      '@types/react-dom': ^18.0.3
       '@types/styled-components': ^5.1.25
       '@typescript-eslint/eslint-plugin': ^5.22.0
       '@typescript-eslint/parser': ^5.22.0
@@ -551,7 +551,7 @@ importers:
       '@babel/preset-typescript': 7.16.7_@babel+core@7.17.10
       '@types/node': 16.11.33
       '@types/react': 17.0.45
-      '@types/react-dom': 17.0.16
+      '@types/react-dom': 18.0.3
       '@types/styled-components': 5.1.25
       '@typescript-eslint/eslint-plugin': 5.22.0_9817cbad956b8aa5d1e3d9ec99e4a1e4
       '@typescript-eslint/parser': 5.22.0_eslint@8.15.0+typescript@4.6.4
@@ -652,7 +652,7 @@ importers:
       '@babel/preset-typescript': ^7.16.7
       '@types/node': ^16.11.33
       '@types/react': ^17.0.45
-      '@types/react-dom': ^17.0.16
+      '@types/react-dom': ^18.0.3
       '@typescript-eslint/eslint-plugin': ^5.22.0
       '@typescript-eslint/parser': ^5.22.0
       babel-loader: ^8.2.5
@@ -686,7 +686,7 @@ importers:
       '@babel/preset-typescript': 7.16.7_@babel+core@7.17.10
       '@types/node': 16.11.33
       '@types/react': 17.0.45
-      '@types/react-dom': 17.0.16
+      '@types/react-dom': 18.0.3
       '@typescript-eslint/eslint-plugin': 5.22.0_9817cbad956b8aa5d1e3d9ec99e4a1e4
       '@typescript-eslint/parser': 5.22.0_eslint@8.15.0+typescript@4.6.4
       babel-loader: 8.2.5_887a5110397f957d9e06dd05497793db
@@ -802,7 +802,7 @@ importers:
       '@types/node': ^16.11.33
       '@types/prop-types': ^15.7.5
       '@types/react': ^17.0.45
-      '@types/react-dom': ^17.0.16
+      '@types/react-dom': ^18.0.3
       '@types/react-redux': ^7.1.24
       '@types/socketcluster-client': ^13.0.5
       '@types/styled-components': ^5.1.25
@@ -890,7 +890,7 @@ importers:
       '@types/lodash': 4.14.182
       '@types/node': 16.11.33
       '@types/react': 17.0.45
-      '@types/react-dom': 17.0.16
+      '@types/react-dom': 18.0.3
       '@types/react-redux': 7.1.24
       '@types/socketcluster-client': 13.0.5
       '@types/styled-components': 5.1.25
@@ -1366,7 +1366,7 @@ importers:
       '@types/lodash.shuffle': ^4.2.7
       '@types/node': ^16.11.33
       '@types/react': ^17.0.45
-      '@types/react-dom': ^17.0.16
+      '@types/react-dom': ^18.0.3
       '@types/react-redux': ^7.1.24
       '@types/react-router': ^5.1.18
       '@types/redux-logger': ^3.0.9
@@ -1428,7 +1428,7 @@ importers:
       '@types/lodash.shuffle': 4.2.7
       '@types/node': 16.11.33
       '@types/react': 17.0.45
-      '@types/react-dom': 17.0.16
+      '@types/react-dom': 18.0.3
       '@types/react-redux': 7.1.24
       '@types/react-router': 5.1.18
       '@types/redux-logger': 3.0.9
@@ -1553,7 +1553,7 @@ importers:
       '@types/lodash.shuffle': ^4.2.7
       '@types/node': ^16.11.33
       '@types/react': ^17.0.45
-      '@types/react-dom': ^17.0.16
+      '@types/react-dom': ^18.0.3
       '@types/react-redux': ^7.1.24
       '@types/react-router': ^5.1.18
       '@types/redux-logger': ^3.0.9
@@ -1611,7 +1611,7 @@ importers:
       '@types/lodash.shuffle': 4.2.7
       '@types/node': 16.11.33
       '@types/react': 17.0.45
-      '@types/react-dom': 17.0.16
+      '@types/react-dom': 18.0.3
       '@types/react-redux': 7.1.24
       '@types/react-router': 5.1.18
       '@types/redux-logger': 3.0.9
@@ -1889,7 +1889,7 @@ importers:
       '@types/copy-webpack-plugin': ^8.0.1
       '@types/node': ^16.11.33
       '@types/react': ^17.0.45
-      '@types/react-dom': ^17.0.16
+      '@types/react-dom': ^18.0.3
       '@types/react-redux': ^7.1.24
       '@types/react-router-dom': ^5.3.3
       '@types/styled-components': ^5.1.25
@@ -1948,7 +1948,7 @@ importers:
       '@types/copy-webpack-plugin': 8.0.1_webpack-cli@4.9.2
       '@types/node': 16.11.33
       '@types/react': 17.0.45
-      '@types/react-dom': 17.0.16
+      '@types/react-dom': 18.0.3
       '@types/react-redux': 7.1.24
       '@types/react-router-dom': 5.3.3
       '@types/styled-components': 5.1.25
@@ -2093,7 +2093,7 @@ importers:
       '@types/node': ^16.11.33
       '@types/prop-types': ^15.7.5
       '@types/react': ^17.0.45
-      '@types/react-dom': ^17.0.16
+      '@types/react-dom': ^18.0.3
       '@types/react-redux': ^7.1.24
       '@types/styled-components': ^5.1.25
       '@types/webpack-env': ^1.16.4
@@ -2146,7 +2146,7 @@ importers:
       '@types/node': 16.11.33
       '@types/prop-types': 15.7.5
       '@types/react': 17.0.45
-      '@types/react-dom': 17.0.16
+      '@types/react-dom': 18.0.3
       '@types/react-redux': 7.1.24
       '@types/styled-components': 5.1.25
       '@types/webpack-env': 1.16.4
@@ -2352,7 +2352,7 @@ importers:
       '@types/node': ^16.11.33
       '@types/prop-types': ^15.7.5
       '@types/react': ^17.0.45
-      '@types/react-dom': ^17.0.16
+      '@types/react-dom': ^18.0.3
       '@types/react-redux': ^7.1.24
       '@types/webpack-env': ^1.16.4
       '@typescript-eslint/eslint-plugin': ^5.22.0
@@ -2394,7 +2394,7 @@ importers:
       '@types/node': 16.11.33
       '@types/prop-types': 15.7.5
       '@types/react': 17.0.45
-      '@types/react-dom': 17.0.16
+      '@types/react-dom': 18.0.3
       '@types/react-redux': 7.1.24
       '@types/webpack-env': 1.16.4
       '@typescript-eslint/eslint-plugin': 5.22.0_9817cbad956b8aa5d1e3d9ec99e4a1e4
@@ -2426,7 +2426,7 @@ importers:
       '@types/node': ^16.11.33
       '@types/prop-types': ^15.7.5
       '@types/react': ^17.0.45
-      '@types/react-dom': ^17.0.16
+      '@types/react-dom': ^18.0.3
       '@types/react-redux': ^7.1.24
       '@types/webpack-env': ^1.16.4
       '@typescript-eslint/eslint-plugin': ^5.22.0
@@ -2473,7 +2473,7 @@ importers:
       '@types/node': 16.11.33
       '@types/prop-types': 15.7.5
       '@types/react': 17.0.45
-      '@types/react-dom': 17.0.16
+      '@types/react-dom': 18.0.3
       '@types/react-redux': 7.1.24
       '@types/webpack-env': 1.16.4
       '@typescript-eslint/eslint-plugin': 5.22.0_9817cbad956b8aa5d1e3d9ec99e4a1e4
@@ -8221,6 +8221,12 @@ packages:
 
   /@types/react-dom/17.0.16:
     resolution: {integrity: sha512-DWcXf8EbMrO/gWnQU7Z88Ws/p16qxGpPyjTKTpmBSFKeE+HveVubqGO1CVK7FrwlWD5MuOcvh8gtd0/XO38NdQ==}
+    dependencies:
+      '@types/react': 17.0.45
+    dev: true
+
+  /@types/react-dom/18.0.3:
+    resolution: {integrity: sha512-1RRW9kst+67gveJRYPxGmVy8eVJ05O43hg77G2j5m76/RFJtMbcfAs2viQ2UNsvvDg8F7OfQZx8qQcl6ymygaQ==}
     dependencies:
       '@types/react': 17.0.45
     dev: true
