@@ -43,8 +43,8 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.17.9",
-    "@types/d3": "^3.5.47",
-    "d3": "^3.5.17",
+    "@types/d3": "^7.1.0",
+    "d3": "^7.4.4",
     "d3tooltip": "^2.1.0",
     "deepmerge": "^4.2.2",
     "map2tree": "^2.1.0",
